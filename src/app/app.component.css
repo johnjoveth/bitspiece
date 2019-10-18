@@ -1,0 +1,8 @@
+img .logo {
+    display: block;
+    max-width: 25% !important;
+    height: auto;
+  }
+  .starbucks-logo {
+      width: 25px!important;
+  }
